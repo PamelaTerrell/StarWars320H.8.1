@@ -12,8 +12,8 @@
   }
   
   .starship-card {
-    background-color: #f0f0f0;
-    border: 1px solid #ccc;
+    background-color:chartreuse;
+    border: 1px solid greenyellow;
     border-radius: 8px;
     margin: 10px;
     padding: 20px;
